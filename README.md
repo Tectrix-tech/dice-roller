@@ -1,2 +1,2 @@
-# dice-roller
+# Dice Roller
 A mobile application that simulates dice rolls
